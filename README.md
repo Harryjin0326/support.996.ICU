@@ -502,6 +502,7 @@ Supported by / 支持者:
 * Yihong Zhang, Student, University of Washington
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Yijie Deng, Student, University of Washington
+* Harry Jin(金羿铭), Student, Ottawa, Canada
 * Yin Kwan Lai, Software Developer, Manchester, UK
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Yin Xia, Student/Data Analyst, Shanghai Maritime University
