@@ -189,6 +189,7 @@ Supported by / 支持者:
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Hao Xu, Azure Developer PMM, Microsoft
 * Haoshen Zhong(钟昊燊), Computer Science Student, Foshan.China
+* Harry Jin(金羿铭), Student, Ottawa, Canada
 * Harry Yang, Microsoft
 * Harshita Gupta, Student, Harvard University and former Software Engineering Intern (x2), Microsoft
 * Harrison Feng, Bigdata & AI Architecture, Chengdu, China
@@ -502,7 +503,6 @@ Supported by / 支持者:
 * Yihong Zhang, Student, University of Washington
 * Yihuai Liang(梁义怀), Student/BigData, Pusan National University
 * Yijie Deng, Student, University of Washington
-* Harry Jin(金羿铭), Student, Ottawa, Canada
 * Yin Kwan Lai, Software Developer, Manchester, UK
 * Yinghao Liu, Senior Software Engineer, ThoughtWorks
 * Yin Xia, Student/Data Analyst, Shanghai Maritime University
